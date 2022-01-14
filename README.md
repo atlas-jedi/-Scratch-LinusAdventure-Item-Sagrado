@@ -1,6 +1,6 @@
 # Projeto feito em Scratch
 
-Este é um projeto básico feito para o curso Fundamentos de Ciência da Computação de Harvard versão português, também conhecido como CC50.
+Este é um projeto básico feito para o curso Fundamentos de Ciência da Computação de Harvard versão português, também conhecido como CC50. Nele deve ser desenvolvido um projeto em scratch que contenha pelo menos 3 scripts, dois sons e 3 sprites. Então resolvi criar este simples game.
 
 ## Requisitos para jogar
 
