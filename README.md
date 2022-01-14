@@ -7,6 +7,8 @@ Este é um projeto básico feito para o curso Fundamentos de Ciência da Computa
 Para rodar, é necessário a plataforma Scratch, que pode ser acessada no link: https://scratch.mit.edu/.
 No site deles também é possivel fazer o download da plataforma para uso Offline.
 
+![Imagem do Jogo](https://i.imgur.com/Q3OROXQ.png)
+
 ## Controles
 
 - Mover para cima = W ou Seta para Cima
